@@ -4,7 +4,8 @@
 
 Here is a playground for interesting projects at the intersection of data and science.
 <br>
+<br>
 
-Current projects: <br>
-==================
+### Current projects: <br>
+============================
 - Liquor identification
